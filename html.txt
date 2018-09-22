@@ -1,1 +1,16 @@
+Html is the structore of a website( esqueleto del websi
 
+se compone de itiquetas <head>begin </head>end.
+
+<Doctype HTML> tells computer the languege is TMHL.
+
+ <HTML>
+      <head> parent of the title
+      <title>David</title>
+      </head>
+      <body>
+        <h1> Hi yo . </h1>
+        <p1> my name is David</p1>
+       <body/>
+ </HTML>      
+      
